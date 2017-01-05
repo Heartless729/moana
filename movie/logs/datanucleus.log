@@ -1,0 +1,5 @@
+16:08:15,341 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:08:15,518 (main) INFO  [DataNucleus.Enhancer] - Writing class file "G:\java\eclipse\workspace\movie\target\classes\lab\io\rush\movie\pojo\Login.class" with enhanced definition
+16:08:15,522 (main) INFO  [DataNucleus.Enhancer] - Writing class file "G:\java\eclipse\workspace\movie\target\classes\lab\io\rush\movie\pojo\SnapRecord.class" with enhanced definition
+16:08:15,529 (main) INFO  [DataNucleus.Enhancer] - Writing class file "G:\java\eclipse\workspace\movie\target\classes\lab\io\rush\movie\pojo\MovieTicket.class" with enhanced definition
+16:08:15,567 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
